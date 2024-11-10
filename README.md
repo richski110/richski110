@@ -2,8 +2,8 @@
 - 
 - 👀 I’m interested in ... Linux, HomeLaps, Cybersecurity, Opensourse softrware and putting it all together.
 - 
-- 🌱 I’m currently learning ... I am studying for my Comptia security+ hopfuly I take that late Aug, beging of Sep, 2024.. After
-- that while I look for work I will try for the Comptia CASP+. I think this has more potential then the pentest+ simple because
+- 🌱 I’m currently learning ... I am studying for my Comptia Linux+ hopfuly I take that in 2025... After
+- that while I look for work I will try for the Comptia Security+, and the CASP+. I think this has more potential then the pentest+ simple because
 - there is more to learn, and in my opinion more sellable.
   
 
